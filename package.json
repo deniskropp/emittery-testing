@@ -1,0 +1,14 @@
+{
+  "name": "emittery-testing",
+  "version": "1.0.0",
+  "description": "Emittery Testing",
+  "main": "main.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Denis Kropp",
+  "license": "MIT",
+  "dependencies": {
+    "emittery": "^1.0.1"
+  }
+}

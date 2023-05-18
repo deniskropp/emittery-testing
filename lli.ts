@@ -1,8 +1,6 @@
 import Emittery from 'emittery'
 
-export default lli
-
-namespace lli {
+export namespace lli {
     export class Event<T extends Object> {
         private static emitter: Emittery = new Emittery({
             debug: {

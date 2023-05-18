@@ -5,12 +5,13 @@
   "type": "module",
   "main": "main.tsx",
   "scripts": {
-    "start": "tsc && node main.js"
+    "start": "tsc && node main.js",
+    "lli": "tsc && node lli-simple.js"
   },
   "author": "Denis Kropp",
   "license": "MIT",
   "dependencies": {
     "emittery": "^1.0.1",
-    "typescript": "^4.9.4"
+    "typescript": "^5.0.4"
   }
 }

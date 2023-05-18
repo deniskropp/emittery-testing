@@ -1,4 +1,4 @@
-import lli from './lli'
+import { lli } from './lli.js'
 
 
 class TestComponent {

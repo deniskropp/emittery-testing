@@ -5,7 +5,7 @@ export namespace lli {
         private static emitter: Emittery = new Emittery({
             debug: {
                 name: 'lli::Event',
-                enabled: true
+                enabled: false
             }
         })
 

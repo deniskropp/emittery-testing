@@ -5,8 +5,8 @@
   "type": "module",
   "main": "main.tsx",
   "scripts": {
-    "start": "tsc && node main.js",
-    "lli": "tsc && node lli-simple.js"
+    "start": "tsx main.tsx",
+    "lli": "tsx lli-simple.tsx"
   },
   "author": "Denis Kropp",
   "license": "MIT",
